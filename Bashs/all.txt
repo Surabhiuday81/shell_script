@@ -1,0 +1,2 @@
+ls: cannot access 'not_there': No such file or directory
+file.txt
