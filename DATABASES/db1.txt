@@ -1,0 +1,15 @@
+** persons_table **
+** id name height age **
+** 0 Igor 180 36 **
+** 1 Pyotr 178 25 **
+** 2 Uday 175 29 **
+** 3 Anika 165 22 **
+** 4 Rohan 182 34 **
+** 5 Maya 158 27 **
+** 6 Arjun 180 31 **
+** products_table **
+** id name price quantity **
+** 0 Laptop 50000 5 **
+** 1 Mouse 500 20 **
+** 2 Keyboard 1500 10 **
+** 3 Monitor 12000 7 **
